@@ -15,6 +15,8 @@ I am developing my technical skills through hands-on labs and troubleshooting pr
 - Microsoft Office
 - Virtual machines using VMware Fusion
 - Customer service and technical documentation
+- Active Directory
+- Ticketing system (Jira)
 
 ## Projects
 Projects and documentation will be added as I complete them.
